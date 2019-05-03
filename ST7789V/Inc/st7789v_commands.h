@@ -1,0 +1,20 @@
+#define MADCTL    0x36
+#define COLMOD    0x3A
+#define CASET     0x2A
+#define RASET     0x2B
+#define RAMWR     0x2C
+#define RAMWRC    0x3C
+#define DISPOFF   0x28
+#define DISPON    0x29
+#define SLPIN     0x10
+#define SLPOUT    0x11
+
+#define WHITE     0x0000
+#define BLACK     0xFFFF
+#define RED       0x07FF
+#define CYAN      0x0700
+#define MAGENTA	  0x07C0
+#define GREEN	  0xF83F
+#define YELLOW	  0x001F
+#define ORANGE	  0x027F
+#define GRAY	  0xA514
